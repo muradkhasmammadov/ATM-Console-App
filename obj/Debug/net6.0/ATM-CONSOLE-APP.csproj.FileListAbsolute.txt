@@ -1,0 +1,15 @@
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\bin\Debug\net6.0\ATM-CONSOLE-APP.exe
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\bin\Debug\net6.0\ATM-CONSOLE-APP.deps.json
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\bin\Debug\net6.0\ATM-CONSOLE-APP.runtimeconfig.json
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\bin\Debug\net6.0\ATM-CONSOLE-APP.dll
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\bin\Debug\net6.0\ATM-CONSOLE-APP.pdb
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.AssemblyInfo.cs
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.dll
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\refint\ATM-CONSOLE-APP.dll
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.pdb
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ATM-CONSOLE-APP.genruntimeconfig.cache
+C:\Users\Murad\Desktop\C#Tutorials\ATM-CONSOLE-APP\obj\Debug\net6.0\ref\ATM-CONSOLE-APP.dll
